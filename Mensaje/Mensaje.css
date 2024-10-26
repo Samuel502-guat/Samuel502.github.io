@@ -19,7 +19,7 @@ body:hover{
     position: absolute;
     top: 62%;
     left: 30%;
-    transform: translate(-30%, -33%);
+    transform: translate(-30%, -29%);
     clip-path: circle(5% at top left);
     transition-property: clip-path;
     transition-duration: 5s;
